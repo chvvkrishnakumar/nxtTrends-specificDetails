@@ -1,0 +1,44 @@
+.pimg {
+  height: 400px;
+  width: auto;
+  border-radius: 10px;
+}
+span {
+  font-weight: bold;
+}
+.description {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+li {
+  list-style-type: none;
+}
+p {
+  margin-top: 5px;
+}
+.count {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+button {
+  background-color: blueviolet;
+  color: white;
+  padding: 5px;
+  font-size: 15px;
+  justify-content: center;
+  margin: 5px;
+}
+.link {
+  text-decoration: none;
+}
+.main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 120vh;
+}
